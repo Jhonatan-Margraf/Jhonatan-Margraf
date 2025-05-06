@@ -7,9 +7,22 @@
   🧠 Explorando o poder dos dados e da automação inteligente
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,vue,)](https://skillicons.dev)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=vue)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonatan-Margraf&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,dart,flutter,html,css,js,vue" alt="My Skills" />
+  </a>
+</div>
 
-> "Lágrimas molham a medalha de um vencedor." 🥇  
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=vue" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Margraf&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="Anurag's GitHub stats"/>
+</div>
+<br>
+
+> "Lágrimas molham a medalha de um vencedor." 🥇
+
+
