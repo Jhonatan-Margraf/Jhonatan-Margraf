@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Jhonatan Margraf 👋</h1>
+<h1 align="center">Opa! Eu sou o Jhonatan Margraf 🤘🏼</h1>
 
 <p align="center">
   🎓 Técnico em Informática para Internet pelo <strong>IFPR</strong><br>
