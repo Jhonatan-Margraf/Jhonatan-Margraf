@@ -23,6 +23,8 @@
 </div>
 <br>
 
+![Status](./profile-3d-contrib/profile-green-animate.svg)
+
 > "Lágrimas molham a medalha de um vencedor." 🥇
 
 
