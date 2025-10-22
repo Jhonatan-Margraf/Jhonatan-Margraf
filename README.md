@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,dart,flutter,html,css,js,mysql,postgres,figma,github" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,dart,flutter,mysql,postgres,figma,github" alt="My Skills" />
   </a>
 </div>
 
