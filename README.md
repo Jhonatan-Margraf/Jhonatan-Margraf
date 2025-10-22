@@ -1,10 +1,10 @@
 <h1 align="center">Opa! Eu sou o Jhonatan Margraf 🤘🏼</h1>
 
 <p align="center">
-  🎓 Técnico em Informática para Internet pelo <strong>IFPR</strong><br>
-  💡 Estudante de <strong>Inteligência Artificial</strong> na <strong>Faculdade Biopark</strong><br>
-  🎮 Apaixonado por tecnologia, programação e jogos<br>
-  🧠 Explorando o poder dos dados e da automação inteligente
+  Técnico em Informática para Internet pelo <strong>IFPR</strong><br>
+  Estudante de Inteligência Artificial na <strong>Faculdade Biopark</strong><br>
+  Experiência em desenvolvimento mobile com <strong>Flutter</strong> e análise de dados com <strong>Pandas</strong><br>
+  Interesse em automação inteligente, ciência de dados e soluções tecnológicas aplicadas
 </p>
 
 <br>
