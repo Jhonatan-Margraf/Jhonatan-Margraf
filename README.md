@@ -18,7 +18,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&theme=dark" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Margraf&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="Anurag's GitHub stats"/>
 </div>
 <br>
