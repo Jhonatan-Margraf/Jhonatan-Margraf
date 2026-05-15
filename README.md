@@ -25,6 +25,4 @@
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
-> "Lágrimas molham a medalha de um vencedor." 🥇
-
 
