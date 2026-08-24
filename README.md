@@ -13,11 +13,6 @@
   </a>
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-margraf&langs_count=5&theme=dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatan-Margraf&theme=dark&show_icons=true" alt="Jhonatan's GitHub stats"/>
-</div>
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhonatan-Margraf/Jhonatan-Margraf/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhonatan-Margraf/Jhonatan-Margraf/output/github-contribution-grid-snake.svg" />
